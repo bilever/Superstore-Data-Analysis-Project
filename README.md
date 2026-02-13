@@ -22,5 +22,6 @@ Total Sales: $668,675.46
 Total Profit: $204,045.83
 
 Best Performing Category: Technology & Office Supplies.
+<img width="1919" height="1022" alt="test" src="https://github.com/user-attachments/assets/c4a9f7e6-cd87-443f-bd59-a40305ae8f23" />
 
-Top Regions: California and New York showed the highest sales volume.![Uploading image.png…]()
+Top Regions: California and New York showed the highest sales volume.
